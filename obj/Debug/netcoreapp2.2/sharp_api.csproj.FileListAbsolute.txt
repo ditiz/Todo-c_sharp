@@ -1,0 +1,14 @@
+/Users/smarzykmathieu/code_work/sharp_api/bin/Debug/netcoreapp2.2/sharp_api.deps.json
+/Users/smarzykmathieu/code_work/sharp_api/bin/Debug/netcoreapp2.2/sharp_api.runtimeconfig.json
+/Users/smarzykmathieu/code_work/sharp_api/bin/Debug/netcoreapp2.2/sharp_api.runtimeconfig.dev.json
+/Users/smarzykmathieu/code_work/sharp_api/bin/Debug/netcoreapp2.2/sharp_api.dll
+/Users/smarzykmathieu/code_work/sharp_api/bin/Debug/netcoreapp2.2/sharp_api.pdb
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.csprojAssemblyReference.cache
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.csproj.CoreCompileInputs.cache
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.RazorAssemblyInfo.cache
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.RazorAssemblyInfo.cs
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.AssemblyInfoInputs.cache
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.AssemblyInfo.cs
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.RazorTargetAssemblyInfo.cache
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.dll
+/Users/smarzykmathieu/code_work/sharp_api/obj/Debug/netcoreapp2.2/sharp_api.pdb
